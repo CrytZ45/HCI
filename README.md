@@ -1,6 +1,6 @@
 ## Live Deployment at:
 
-unrivaled-alfajores-84ce62.netlify.app
+https://unrivaled-alfajores-84ce62.netlify.app/
 
 ## Available Scripts
 
