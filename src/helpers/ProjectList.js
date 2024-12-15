@@ -1,33 +1,33 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
-import Proj4 from "../assets/proj4.webp";
+import Proj3 from "../assets/proj3.jpg";
+import Proj4 from "../assets/proj4.jpg";
 import Proj5 from "../assets/proj5.jpg";
 
 export const ProjectList = [
   {
-    name: "Full Stack Personal Dashboard",
+    name: "My Self",
     image: Proj1,
-    skills: "MERN Design Stack (MongoDB, Express, React, Node.js)",
+
   },
   {
-    name: "Back end Quiz API",
+    name: "My Family",
     image: Proj2,
-    skills: "Django RestAPI project - includes authentication and more.",
+  
   },
   {
-    name: "Pizzeria",
+    name: "BSCS 4A",
     image: Proj3,
-    skills: "Python breadth-first search algorithm.",
+
   },
   {
-    name: "Selector",
+    name: "Homies",
     image: Proj4,
-    skills: "React and Typescript",
+ 
   },
   {
-    name: "Slot Machine Game",
+    name: "Girlies",
     image: Proj5,
-    skills: "Python",
+
   },
 ];

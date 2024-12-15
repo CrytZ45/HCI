@@ -12,11 +12,9 @@ function ProjectDisplay() {
       <h1> {project.name}</h1>
       <img src={project.image} />
       <p>
-        <b>Skills:</b> {project.skills}
+        <b></b> {project.skills}
       </p>
-      <a href="https://github.com/j-bull2003">
-          <GitHubIcon />
-        </a>
+    
     </div>
   );
 }
